@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMtT0ULBzFEStyIb5zL8vh/mKNrdDoU0Q2DuSQCrWS1M/vs5u+w27N2L8q9vtULL4AcSnxa/qbxyF3dfjqDokg==",
+  "success": true,
+  "projectFilePath": "/Users/venkateshbellamkonda/Desktop/Exercise/Exercise/Exercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.13/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.13/microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.13/microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.13/microsoft.entityframeworkcore.inmemory.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.13/microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/venkateshbellamkonda/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
